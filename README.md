@@ -1,5 +1,4 @@
 # FIRST
 FIRST
 <br>
-Author: Uday & Team
-
+Author: Uday
